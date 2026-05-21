@@ -1,5 +1,5 @@
 import { useState, useCallback, useEffect } from 'react'
-import profileImg from './assets/profile.jpeg'
+import profileImg from '@assets/profile.jpeg'
 import { slides as SLIDES } from './slides/index'
 
 // ─── Navigation ──────────────────────────────────────────────────────────────

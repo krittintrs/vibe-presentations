@@ -1,0 +1,7 @@
+vibe-presentations
+Copyright 2026 Krittin Thirasak
+
+This project was scaffolded with the "presentation-creator" skill from
+getsentry/skills (https://github.com/getsentry/skills), which is licensed
+under the Apache License, Version 2.0. Portions of the project structure,
+styling, and build configuration derive from that skill's templates.

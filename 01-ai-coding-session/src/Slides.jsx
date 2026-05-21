@@ -1,5 +1,5 @@
 import React from 'react'
-import profileImg from './assets/profile.jpeg'
+import profileImg from '@assets/profile.jpeg'
 
 // ─── Shared: SDLC Flow ────────────────────────────────────────────────────────
 const PHASES = [
