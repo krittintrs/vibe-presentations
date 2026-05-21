@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "export-pdf": "vite build && node scripts/export-pdf.js"
   },
   "dependencies": {
     "react": "^18.3.1",
@@ -13,6 +14,8 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.4",
+    "pdf-lib": "^1.17.1",
+    "puppeteer": "^25.0.4",
     "vite": "^6.0.0",
     "vite-plugin-singlefile": "^2.3.0"
   }
